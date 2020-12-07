@@ -1,0 +1,14 @@
+.grande {
+    background-color: #badc58;
+    height: 150vh;
+    top: 0;
+}
+
+.preview {
+    background-color: white;
+}
+
+textarea,
+.preview {
+    min-height: 400px;
+}
